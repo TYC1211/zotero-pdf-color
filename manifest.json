@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "PDF Color per Document",
+  "version": "0.1.4",
+  "description": "Remember a light or dark reading mode for individual Zotero PDF attachments.",
+  "applications": {
+    "zotero": {
+      "id": "pdf-color-per-document@local.invalid",
+      "strict_min_version": "10.0.7",
+      "strict_max_version": "10.0.*",
+      "update_url": "https://pdf-color-per-document.invalid/updates.json"
+    }
+  }
+}
